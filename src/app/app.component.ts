@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ProjectsIntellij';
+
+  openMenu() {
+
+    //todo реструктуризация меню (разместить ссылки в столбик)
+  }
 }
